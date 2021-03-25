@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Official Web Applicaiton": ["doc0","doc1"],
+    "API": ["doc2"],
+    "Smart Contract": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
