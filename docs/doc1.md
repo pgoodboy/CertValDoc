@@ -4,7 +4,7 @@ title: Official Web Application
 sidebar_label: Web App Tutorial
 ---
 
-Usage of our [Official Web Application](http://www.google.com)
+Usage of our [Official Web Application](https://oatpejoycertval.netlify.app/)
 
 ## Main menu
 

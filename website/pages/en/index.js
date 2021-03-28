@@ -65,7 +65,7 @@ class HomeSplash extends React.Component {
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
             <Button href="https://github.com/Krow18D/DigitalCertValidate/">Github</Button>
-            <Button href="http://www.google.com/">Official Web App</Button>
+            <Button href="https://oatpejoycertval.netlify.app/">Official Web App</Button>
             <Button href={docUrl('doc1.html')}>Documentation</Button>
           </PromoSection>
         </div>
