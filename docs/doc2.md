@@ -3,6 +3,8 @@ id: doc2
 title: API Usage
 ---
 
+Our Official API is deployed at `https://oatpejoyapi.ml/`
+
 ## Calculate hash of file
 
 Takes input as a `file` and returns `SHA512` hash of the file.
